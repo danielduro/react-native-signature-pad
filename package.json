@@ -1,7 +1,7 @@
 {
   "name": "react-native-signature-pad-updated",
-  "version": "0.0.8",
-  "description": "React Native wrapper around szimek's Canvas based Signature Pad",
+  "version": "0.0.9",
+  "description": "React Native wrapper around szimek's Canvas based Signature Pad updated for React Native PropType update",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
